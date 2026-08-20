@@ -12,6 +12,13 @@
 - JUnit 5
 - 后续逐步加入 MySQL、MyBatis、Redis、Spring Security、MQ、Docker、Spring Cloud
 
+## 文档
+
+- [24 周详细学习计划](docs/24-week-plan.md)
+- [每日学习内容目录](docs/daily-content.md)
+- [阶段验收标准](docs/checkpoints.md)
+- [面试题清单](docs/interview-checklist.md)
+
 ## 项目演进路线
 
 ```text
@@ -88,9 +95,3 @@ mvn test
 - 10 分钟：写学习笔记 / 回答复盘问题
 
 原则：**学习内容必须转化成代码提交。**
-
-## 文档
-
-- [24 周详细学习计划](docs/24-week-plan.md)
-- [阶段验收标准](docs/checkpoints.md)
-- [面试题清单](docs/interview-checklist.md)
