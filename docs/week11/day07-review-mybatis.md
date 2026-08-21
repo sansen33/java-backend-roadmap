@@ -13,3 +13,8 @@
 - [ ] HTTP 实测通过。
 
 下一节：**Week 12 / Day 1 — DTO、VO、Entity。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day01-dto-vo-entity.md)

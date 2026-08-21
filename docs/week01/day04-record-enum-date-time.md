@@ -220,3 +220,8 @@ public static int calculateCouponPrice(int price, Coupon coupon, LocalDate today
 - `MM` 与 `mm` 分别是什么？
 
 下一节：**Week 1 / Day 5 — `List`、泛型与集合遍历。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day05-list-generics-iteration.md)

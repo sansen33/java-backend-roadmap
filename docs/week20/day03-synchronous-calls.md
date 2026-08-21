@@ -17,3 +17,8 @@
 - 失败不无限阻塞。
 
 下一节：**Week 20 / Day 4 — 异步调用。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day04-asynchronous-events.md)

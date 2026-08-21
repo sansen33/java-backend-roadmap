@@ -17,3 +17,8 @@
 - 不混淆栈和堆。
 
 下一节：**Week 16 / Day 2 — 对象创建。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day02-object-allocation.md)

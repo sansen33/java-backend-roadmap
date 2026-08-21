@@ -48,3 +48,8 @@ record 会按组件生成这些方法，适合简单值对象。
 - 可变 key 会造成什么问题？
 
 下一节：**Week 2 / Day 7 — 支付策略闭卷复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day07-review-payment-strategy.md)

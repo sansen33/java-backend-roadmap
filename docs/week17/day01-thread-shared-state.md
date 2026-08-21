@@ -17,3 +17,8 @@
 - 复现结果不依赖固定一次运行。
 
 下一节：**Week 17 / Day 2 — synchronized。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day02-synchronized.md)

@@ -34,3 +34,8 @@ EXPLAIN SELECT id, name FROM product WHERE status = 'ON_SALE';
 - 全表扫描一定错误吗？
 
 下一节：**Week 8 / Day 4 — 事务与 ACID。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day04-transactions-acid.md)

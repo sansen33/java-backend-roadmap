@@ -17,3 +17,8 @@
 - 消费者可忽略未知扩展字段。
 
 下一节：**Week 18 / Day 2 — Producer。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day02-producer.md)

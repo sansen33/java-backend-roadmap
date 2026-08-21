@@ -13,3 +13,8 @@
 - [ ] OpenAPI 可调用。
 
 下一节：**Week 13 / Day 1 — 密码与注册。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day01-registration-password.md)

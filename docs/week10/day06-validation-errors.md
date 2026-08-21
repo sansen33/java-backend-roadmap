@@ -34,3 +34,8 @@
 - 错误码为何比纯文本稳定？
 
 下一节：**Week 10 / Day 7 — User API 闭卷验收。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day07-review-user-api.md)

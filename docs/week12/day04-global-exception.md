@@ -17,3 +17,8 @@
 - 未知错误不泄露实现细节。
 
 下一节：**Week 12 / Day 5 — 日志。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day05-logging.md)

@@ -17,3 +17,8 @@
 - 每项成本有对应收益。
 
 下一节：**Week 20 / Day 2 — 服务边界。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day02-service-boundaries.md)

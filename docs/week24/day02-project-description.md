@@ -17,3 +17,8 @@
 - 不编造指标。
 
 下一节：**Week 24 / Day 3 — STAR 故事。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day03-star-stories.md)

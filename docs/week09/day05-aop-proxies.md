@@ -30,3 +30,8 @@
 - 为什么不把核心支付逻辑放切面？
 
 下一节：**Week 9 / Day 6 — 配置与环境。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day06-configuration-profiles.md)

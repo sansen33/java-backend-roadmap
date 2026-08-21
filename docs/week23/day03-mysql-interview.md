@@ -17,3 +17,8 @@
 - 方案包含失败路径。
 
 下一节：**Week 23 / Day 4 — Redis 与 MQ 面试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day04-redis-mq-interview.md)

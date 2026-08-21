@@ -17,3 +17,8 @@
 - 项目描述真实可追问。
 
 下一节：**Week 23 / Day 7 — 模拟面试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day07-review-interview.md)

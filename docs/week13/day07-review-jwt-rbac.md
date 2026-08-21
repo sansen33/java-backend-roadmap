@@ -13,3 +13,8 @@
 - [ ] 他人资源不可访问。
 
 下一节：**Week 14 / Day 1 — Redis String。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day01-redis-string.md)

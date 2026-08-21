@@ -17,3 +17,8 @@
 - 不无限等待锁。
 
 下一节：**Week 17 / Day 6 — 线程池与 CompletableFuture。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day06-thread-pool-future.md)

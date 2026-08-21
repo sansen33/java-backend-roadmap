@@ -32,3 +32,8 @@ git commit -m "complete week 10 rest api"
 ```
 
 下一节：**Week 11 — MyBatis。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day01-mybatis-mapper.md)

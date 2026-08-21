@@ -17,3 +17,8 @@
 - 响应不含堆栈。
 
 下一节：**Week 12 / Day 4 — 全局异常。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day04-global-exception.md)

@@ -17,3 +17,8 @@
 - 更新有条件约束。
 
 下一节：**Week 11 / Day 6 — 替换内存 Map。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day06-migrate-to-mysql.md)

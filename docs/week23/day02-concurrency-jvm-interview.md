@@ -17,3 +17,8 @@
 - 每项结论有机制支撑。
 
 下一节：**Week 23 / Day 3 — MySQL 面试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day03-mysql-interview.md)

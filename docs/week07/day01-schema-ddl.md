@@ -29,3 +29,8 @@
 - 为什么金额不用 FLOAT？
 
 下一节：**Week 7 / Day 2 — DML 与约束。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day02-dml-constraints.md)

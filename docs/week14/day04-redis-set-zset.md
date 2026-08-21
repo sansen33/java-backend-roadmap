@@ -17,3 +17,8 @@
 - Set 成员无重复。
 
 下一节：**Week 14 / Day 5 — TTL 与缓存。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day05-cache-ttl.md)

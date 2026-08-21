@@ -17,3 +17,8 @@
 - 越权访问不泄露资源存在性。
 
 下一节：**Week 13 / Day 7 — 安全复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day07-review-jwt-rbac.md)

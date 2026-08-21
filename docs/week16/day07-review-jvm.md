@@ -13,3 +13,8 @@
 - [ ] 类加载顺序正确。
 
 下一节：**Week 17 / Day 1 — Thread。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day01-thread-shared-state.md)

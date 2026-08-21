@@ -37,3 +37,8 @@ try {
 - catch 后继续执行可能造成什么问题？
 
 下一节：**Week 5 / Day 3 — try-with-resources。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day03-try-with-resources.md)

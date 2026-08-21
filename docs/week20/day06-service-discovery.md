@@ -17,3 +17,8 @@
 - 不健康实例不可调用。
 
 下一节：**Week 20 / Day 7 — 微服务复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day07-review-microservices.md)

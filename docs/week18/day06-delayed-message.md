@@ -17,3 +17,8 @@
 - 以订单当前状态为准。
 
 下一节：**Week 18 / Day 7 — MQ 复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day07-review-mq.md)

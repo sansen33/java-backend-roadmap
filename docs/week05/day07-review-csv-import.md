@@ -24,3 +24,8 @@
 提交：`git commit -m "complete week 5 exception io"`。
 
 下一节：**Week 6 / Day 1 — Maven 项目结构。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day01-maven-structure.md)

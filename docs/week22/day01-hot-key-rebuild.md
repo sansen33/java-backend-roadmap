@@ -17,3 +17,8 @@
 - 锁有有限 TTL。
 
 下一节：**Week 22 / Day 2 — 缓存穿透。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day02-cache-penetration.md)

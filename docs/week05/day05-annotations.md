@@ -36,3 +36,8 @@ public @interface Required {
 - Target 为什么重要？
 
 下一节：**Week 5 / Day 6 — 反射。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day06-reflection.md)

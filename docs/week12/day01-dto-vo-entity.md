@@ -17,3 +17,8 @@
 - VO 不返回密码。
 
 下一节：**Week 12 / Day 2 — Validation。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day02-validation.md)

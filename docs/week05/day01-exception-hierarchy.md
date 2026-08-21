@@ -35,3 +35,8 @@ if (quantity <= 0) {
 - 能否避免 `catch (Exception) {}`？
 
 下一节：**Week 5 / Day 2 — 捕获、传播与自定义异常。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day02-custom-exceptions.md)

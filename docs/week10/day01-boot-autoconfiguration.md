@@ -38,3 +38,8 @@ public class Application {
 - 端口为何不硬编码？
 
 下一节：**Week 10 / Day 2 — Controller 与路由。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day02-controller-routing.md)

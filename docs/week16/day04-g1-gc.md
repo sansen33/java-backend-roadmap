@@ -17,3 +17,8 @@
 - 不盲调 JVM 参数。
 
 下一节：**Week 16 / Day 5 — 类加载。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day05-class-loading.md)

@@ -17,3 +17,8 @@
 - 重复邮箱返回 409。
 
 下一节：**Week 13 / Day 2 — 登录与 JWT。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day02-login-jwt.md)

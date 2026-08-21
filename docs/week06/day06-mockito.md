@@ -34,3 +34,8 @@ verify(gateway, times(1)).pay(any());
 - 测试是否脱离网络和数据库？
 
 下一节：**Week 6 / Day 7 — Service 测试复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day07-review-service-tests.md)

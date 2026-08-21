@@ -17,3 +17,8 @@
 - 日志可关联一次请求。
 
 下一节：**Week 12 / Day 6 — 分页与 OpenAPI。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day06-pagination-openapi.md)

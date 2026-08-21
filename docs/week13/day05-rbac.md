@@ -17,3 +17,8 @@
 - 角色检查不只依赖前端隐藏按钮。
 
 下一节：**Week 13 / Day 6 — 所有权授权。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day06-resource-authorization.md)

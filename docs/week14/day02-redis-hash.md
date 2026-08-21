@@ -17,3 +17,8 @@
 - 字段命名稳定。
 
 下一节：**Week 14 / Day 3 — List。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day03-redis-list.md)

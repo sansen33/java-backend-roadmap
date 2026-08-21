@@ -38,3 +38,8 @@ project/
 - IDE 外能否执行测试？
 
 下一节：**Week 6 / Day 2 — 依赖与 scope。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day02-dependencies-scope.md)

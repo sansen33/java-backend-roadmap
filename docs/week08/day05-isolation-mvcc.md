@@ -30,3 +30,8 @@ MVCC 让普通读取可基于版本快照，降低读写冲突；它不自动解
 - MVCC 为什么不是万能并发方案？
 
 下一节：**Week 8 / Day 6 — 行锁与库存。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day06-locks-stock.md)

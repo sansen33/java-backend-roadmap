@@ -17,3 +17,8 @@
 - 不在 static 块做重型外部调用。
 
 下一节：**Week 16 / Day 6 — 双亲委派。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day06-classloaders.md)

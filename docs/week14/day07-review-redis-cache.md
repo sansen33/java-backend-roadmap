@@ -13,3 +13,8 @@
 - [ ] 缓存不保存敏感数据。
 
 下一节：**Week 15 / Day 1 — SET NX。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day01-set-nx-lock.md)

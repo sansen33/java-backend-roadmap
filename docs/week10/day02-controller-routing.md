@@ -35,3 +35,8 @@ UserView find(@PathVariable Long id) {}
 - 找不到为什么不是 200？
 
 下一节：**Week 10 / Day 3 — 请求绑定与 DTO。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day03-request-body-dto.md)

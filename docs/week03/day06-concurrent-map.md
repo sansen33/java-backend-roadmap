@@ -34,3 +34,8 @@ stock.compute(productId, (id, old) -> old == null ? 0 : old - quantity);
 - 为什么线程安全容器不等于业务线程安全？
 
 下一节：**Week 3 / Day 7 — 内存购物车复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day07-review-shopping-cart.md)

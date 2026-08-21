@@ -17,3 +17,8 @@
 - size 有上限。
 
 下一节：**Week 11 / Day 5 — MyBatis-Plus。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day05-mybatis-plus.md)

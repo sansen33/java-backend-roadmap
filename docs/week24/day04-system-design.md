@@ -17,3 +17,8 @@
 - 包含容量与失败讨论。
 
 下一节：**Week 24 / Day 5 — 模拟面试一。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day05-mock-interview.md)

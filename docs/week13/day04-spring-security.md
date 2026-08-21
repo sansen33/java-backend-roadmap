@@ -17,3 +17,8 @@
 - 未认证请求不能访问资源。
 
 下一节：**Week 13 / Day 5 — RBAC。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day05-rbac.md)

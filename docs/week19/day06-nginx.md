@@ -17,3 +17,8 @@
 - 超时不无限等待。
 
 下一节：**Week 19 / Day 7 — 容器化复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day07-review-containerization.md)

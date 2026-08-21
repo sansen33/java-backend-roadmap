@@ -57,3 +57,8 @@ public OrderService(PaymentValidator validator, PaymentStrategy strategy) {}
 - 组合如何降低继承层级？
 
 下一节：**Week 2 / Day 6 — 泛型与对象契约。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day06-generics-object-contracts.md)

@@ -35,3 +35,8 @@ Long next = pending.poll();
 - `poll` 与 `remove` 的区别？
 
 下一节：**Week 3 / Day 5 — 排序与比较器。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day05-comparator-sorting.md)

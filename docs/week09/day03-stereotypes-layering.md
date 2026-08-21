@@ -35,3 +35,8 @@ Controller 不写 SQL；Repository 不返回 HTTP 状态码。
 - Repository 为什么不暴露 HTTP？
 
 下一节：**Week 9 / Day 4 — Configuration 与 Bean。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day04-configuration-bean.md)

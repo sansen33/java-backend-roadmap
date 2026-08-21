@@ -36,3 +36,8 @@ WHERE id = :id AND stock >= :quantity;
 - 为什么重试必须有限？
 
 下一节：**Week 8 / Day 7 — 下单一致性复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day07-review-order-consistency.md)

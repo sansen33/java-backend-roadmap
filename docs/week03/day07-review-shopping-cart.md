@@ -37,3 +37,8 @@
 - [ ] 能说明并发风险。
 
 下一节：**Week 4 / Day 1 — Lambda 与函数式接口。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day01-lambda-functional-interface.md)

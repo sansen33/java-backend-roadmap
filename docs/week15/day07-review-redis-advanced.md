@@ -13,3 +13,8 @@
 - [ ] 方案可压测验证。
 
 下一节：**Week 16 / Day 1 — JVM 内存区域。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day01-jvm-memory.md)

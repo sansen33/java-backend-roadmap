@@ -17,3 +17,8 @@
 - 失败状态可恢复。
 
 下一节：**Week 20 / Day 6 — 服务发现。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day06-service-discovery.md)

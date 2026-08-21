@@ -65,3 +65,8 @@ else if (type.equals("WECHAT")) { ... }
 - 新增渠道是否需要修改 `OrderService`？
 
 下一节：**Week 2 / Day 5 — 抽象类与组合。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day05-abstract-class-composition.md)

@@ -17,3 +17,8 @@
 - 先测量再优化。
 
 下一节：**Week 16 / Day 3 — GC Roots。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day03-gc-roots.md)

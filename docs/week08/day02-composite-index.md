@@ -35,3 +35,8 @@ WHERE user_id = ? AND status = ? ORDER BY created_at DESC
 - 联合索引能否等价三个单列索引？
 
 下一节：**Week 8 / Day 3 — EXPLAIN。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day03-explain.md)

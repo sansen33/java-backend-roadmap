@@ -211,3 +211,8 @@ public static int calculateTotalStock(List<Product> products)
 - 为什么返回空列表通常优于返回 `null`？
 
 下一节：**Week 1 / Day 6 — 组合练习：完成 Java 基础商品目录。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day06-product-catalog-practice.md)

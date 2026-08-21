@@ -17,3 +17,8 @@
 - 不能把权限失败缓存为不存在。
 
 下一节：**Week 22 / Day 3 — 重复下单。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day03-duplicate-order.md)

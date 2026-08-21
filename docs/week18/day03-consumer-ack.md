@@ -17,3 +17,8 @@
 - 失败原因有日志。
 
 下一节：**Week 18 / Day 4 — 幂等消费。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day04-idempotent-consumer.md)

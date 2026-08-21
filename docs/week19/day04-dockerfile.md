@@ -17,3 +17,8 @@
 - 应用非 root 运行。
 
 下一节：**Week 19 / Day 5 — Compose。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day05-compose.md)

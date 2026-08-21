@@ -37,3 +37,8 @@ EXISTS 关注是否存在匹配行，不需要返回具体列。
 - 是否避免 SELECT *？
 
 下一节：**Week 7 / Day 7 — 五表模型复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day07-review-sql.md)

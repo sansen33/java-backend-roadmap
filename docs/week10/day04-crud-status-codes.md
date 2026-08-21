@@ -34,3 +34,8 @@ return ResponseEntity.status(HttpStatus.CREATED).body(view);
 - PUT/PATCH 分别表达什么？
 
 下一节：**Week 10 / Day 5 — 分层与 VO。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day05-layering-vo.md)

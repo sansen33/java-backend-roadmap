@@ -65,3 +65,8 @@ void send(String text, int retry) {}
 - 重载与覆写有何区别？
 
 下一节：**Week 2 / Day 4 — 接口与依赖倒置。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day04-interfaces-dependency-inversion.md)

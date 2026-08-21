@@ -29,3 +29,8 @@
 - 源集合是否被修改？
 
 下一节：**Week 4 / Day 7 — 订单报表复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day07-review-order-report.md)

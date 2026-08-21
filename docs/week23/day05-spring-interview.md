@@ -17,3 +17,8 @@
 - 可说明代理边界。
 
 下一节：**Week 23 / Day 6 — 算法与项目。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day06-algorithms-project.md)

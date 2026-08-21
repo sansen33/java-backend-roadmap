@@ -17,3 +17,8 @@
 - 数据库唯一约束为最终防线。
 
 下一节：**Week 15 / Day 5 — 高并发扣库存。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day05-high-concurrency-stock.md)

@@ -17,3 +17,8 @@
 - 不共享数据库表。
 
 下一节：**Week 20 / Day 3 — 同步调用。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day03-synchronous-calls.md)

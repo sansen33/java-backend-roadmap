@@ -38,3 +38,8 @@ for (Field field : type.getDeclaredFields()) {
 - 如何处理反射异常？
 
 下一节：**Week 5 / Day 7 — CSV 导入复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day07-review-csv-import.md)

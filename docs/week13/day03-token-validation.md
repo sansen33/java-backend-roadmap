@@ -17,3 +17,8 @@
 - 不信任客户端传来的 userId。
 
 下一节：**Week 13 / Day 4 — Spring Security。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day04-spring-security.md)

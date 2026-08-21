@@ -17,3 +17,8 @@
 - DB/Redis 有持久化卷。
 
 下一节：**Week 19 / Day 6 — Nginx。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day06-nginx.md)

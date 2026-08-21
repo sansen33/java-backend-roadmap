@@ -17,3 +17,8 @@
 - 不先查库存再盲目扣减。
 
 下一节：**Week 22 / Day 5 — MQ 幂等。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day05-mq-idempotency.md)

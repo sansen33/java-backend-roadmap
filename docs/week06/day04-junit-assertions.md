@@ -36,3 +36,8 @@ void shouldDecreaseStock() {
 - 异常测试如何写？
 
 下一节：**Week 6 / Day 5 — 参数化测试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day05-parameterized-tests.md)

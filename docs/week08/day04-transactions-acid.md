@@ -35,3 +35,8 @@
 - rollback 后哪些数据必须不变？
 
 下一节：**Week 8 / Day 5 — 隔离级别与 MVCC。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day05-isolation-mvcc.md)

@@ -246,3 +246,8 @@ public static boolean isValidProductName(String name)
 - 能否独立处理 `null`、长度不一致和库存为零的输入？
 
 下一节：**Week 1 / Day 4 — `record`、`enum` 与日期时间。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day04-record-enum-date-time.md)

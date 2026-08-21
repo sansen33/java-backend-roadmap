@@ -37,3 +37,8 @@ public class TimeConfiguration {
 - 多实现如何消歧？
 
 下一节：**Week 9 / Day 5 — AOP。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day05-aop-proxies.md)

@@ -17,3 +17,8 @@
 提交：`git commit -m "complete week 6 junit"`。
 
 下一节：**Week 7 / Day 1 — 关系模型与 DDL。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day01-schema-ddl.md)

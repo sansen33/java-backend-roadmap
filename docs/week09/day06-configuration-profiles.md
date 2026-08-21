@@ -29,3 +29,8 @@
 - 日志为何不能输出密钥？
 
 下一节：**Week 9 / Day 7 — Spring 核心复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day07-review-spring-core.md)

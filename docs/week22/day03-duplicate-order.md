@@ -17,3 +17,8 @@
 - 不用客户端重试次数判断重复。
 
 下一节：**Week 22 / Day 4 — 库存一致性。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day04-stock-consistency.md)

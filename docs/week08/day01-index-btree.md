@@ -30,3 +30,8 @@
 - 索引为何会影响写入？
 
 下一节：**Week 8 / Day 2 — 联合索引。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day02-composite-index.md)

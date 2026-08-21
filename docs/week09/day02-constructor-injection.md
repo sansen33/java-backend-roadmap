@@ -40,3 +40,8 @@ public class OrderService {
 - 不启动 Spring 能否测试 Service？
 
 下一节：**Week 9 / Day 3 — 分层组件。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day03-stereotypes-layering.md)

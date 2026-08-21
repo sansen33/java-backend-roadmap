@@ -17,3 +17,8 @@
 - 异步异常可观察。
 
 下一节：**Week 17 / Day 7 — 并发复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day07-review-concurrency.md)

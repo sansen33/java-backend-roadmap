@@ -491,3 +491,8 @@ git push
 原则：**方法应当表达业务意图，并把状态校验与状态修改放在同一个对象中。**
 
 下一节：**Week 1 / Day 3 — 流程控制、数组、`String` 与常用调试方式。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day03-control-flow-arrays-string.md)

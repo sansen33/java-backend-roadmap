@@ -37,3 +37,8 @@ WHERE 先过滤行，HAVING 过滤分组结果。
 - 聚合前后结果粒度如何变化？
 
 下一节：**Week 7 / Day 6 — 子查询。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day06-subqueries.md)

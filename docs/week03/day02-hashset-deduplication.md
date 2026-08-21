@@ -36,3 +36,8 @@ if (!processed.add(requestId)) {
 - 可变对象作为 Set 元素有什么风险？
 
 下一节：**Week 3 / Day 3 — `HashMap`。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day03-hashmap-cart.md)

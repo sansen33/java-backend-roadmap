@@ -17,3 +17,8 @@
 - 调用失败可处理。
 
 下一节：**Week 21 / Day 4 — Gateway。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day04-gateway.md)

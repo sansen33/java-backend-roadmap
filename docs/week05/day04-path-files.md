@@ -36,3 +36,8 @@ if (!Files.exists(path)) {
 - 为什么要用临时文件测试？
 
 下一节：**Week 5 / Day 5 — 注解。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day05-annotations.md)

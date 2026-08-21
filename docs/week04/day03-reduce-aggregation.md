@@ -37,3 +37,8 @@ int total = orders.stream()
 - 为什么金额不能随意使用 double？
 
 下一节：**Week 4 / Day 4 — 分组与分区。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day04-grouping-partitioning.md)

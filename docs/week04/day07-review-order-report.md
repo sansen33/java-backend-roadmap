@@ -36,3 +36,8 @@ git commit -m "complete week 4 streams"
 ```
 
 下一节：**Week 5 / Day 1 — 异常层次与边界。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day01-exception-hierarchy.md)

@@ -17,3 +17,8 @@
 - 绑定参数使用 `#{}`。
 
 下一节：**Week 11 / Day 3 — 动态 SQL。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day03-dynamic-sql.md)

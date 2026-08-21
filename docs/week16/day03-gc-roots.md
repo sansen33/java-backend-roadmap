@@ -17,3 +17,8 @@
 - 不用 `System.gc()` 保证行为。
 
 下一节：**Week 16 / Day 4 — G1。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day04-g1-gc.md)

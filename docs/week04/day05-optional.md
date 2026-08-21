@@ -36,3 +36,8 @@ public Optional<Product> findById(Long id) {
 - `orElse` 与 `orElseGet` 区别？
 
 下一节：**Week 4 / Day 6 — Stream 可读性与边界。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day06-stream-readability.md)

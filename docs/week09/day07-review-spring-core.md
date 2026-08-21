@@ -17,3 +17,8 @@
 提交：`git commit -m "complete week 9 spring core"`。
 
 下一节：**Week 10 / Day 1 — Boot 启动与自动配置。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day01-boot-autoconfiguration.md)

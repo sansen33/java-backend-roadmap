@@ -17,3 +17,8 @@
 - 先确认目标 PID。
 
 下一节：**Week 19 / Day 2 — 端口与日志。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day02-ports-logs.md)

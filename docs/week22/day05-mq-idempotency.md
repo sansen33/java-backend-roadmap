@@ -17,3 +17,8 @@
 - 消费记录与业务修改一致。
 
 下一节：**Week 22 / Day 6 — 设计说明。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day06-design-docs.md)

@@ -37,3 +37,8 @@ NULL 使用 `IS NULL`，不能写 `= NULL`。分页需要稳定排序。
 - `IS NULL` 与 `= NULL` 区别？
 
 下一节：**Week 7 / Day 4 — JOIN。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day04-joins.md)

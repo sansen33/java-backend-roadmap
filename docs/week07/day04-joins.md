@@ -35,3 +35,8 @@ JOIN user u ON u.id = o.user_id;
 - 条件放 ON 与 WHERE 有何影响？
 
 下一节：**Week 7 / Day 5 — 聚合。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day05-group-by-aggregation.md)

@@ -33,3 +33,8 @@ void shouldValidateQuantity(int quantity, boolean expected) {}
 - 失败输出是否能定位案例？
 
 下一节：**Week 6 / Day 6 — Mockito。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day06-mockito.md)

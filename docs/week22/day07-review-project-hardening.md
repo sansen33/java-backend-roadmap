@@ -13,3 +13,8 @@
 - [ ] 三个场景都有证据。
 
 下一节：**Week 23 / Day 1 — Java 面试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day01-java-interview.md)

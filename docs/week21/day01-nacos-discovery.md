@@ -17,3 +17,8 @@
 - 不硬编码服务地址。
 
 下一节：**Week 21 / Day 2 — 配置中心。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day02-config-center.md)

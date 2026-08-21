@@ -17,3 +17,8 @@
 - 缓存值不包含密码。
 
 下一节：**Week 14 / Day 2 — Hash。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day02-redis-hash.md)

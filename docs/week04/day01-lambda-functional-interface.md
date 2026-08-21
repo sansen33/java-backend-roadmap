@@ -45,3 +45,8 @@ lambda 是行为值，不是线程；局部变量被捕获后必须 effectively 
 - 何时方法引用反而不清晰？
 
 下一节：**Week 4 / Day 2 — `filter`、`map`、`collect`。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day02-filter-map-collect.md)

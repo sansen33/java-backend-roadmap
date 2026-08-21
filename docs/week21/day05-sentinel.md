@@ -17,3 +17,8 @@
 - 阈值有容量依据。
 
 下一节：**Week 21 / Day 6 — 调用链整合。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day06-tracing.md)

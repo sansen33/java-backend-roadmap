@@ -17,3 +17,8 @@
 - SQL 参数不用字符串拼接。
 
 下一节：**Week 11 / Day 2 — XML 映射。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day02-mybatis-xml.md)

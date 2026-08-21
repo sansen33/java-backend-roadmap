@@ -17,3 +17,8 @@
 - 每题能应对一次追问。
 
 下一节：**Week 23 / Day 2 — 并发与 JVM。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day02-concurrency-jvm-interview.md)

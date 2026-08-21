@@ -17,3 +17,8 @@
 - 每项技能有项目证据。
 
 下一节：**Week 24 / Day 2 — 项目描述。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day02-project-description.md)

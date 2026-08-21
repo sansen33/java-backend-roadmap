@@ -17,3 +17,8 @@
 - 更新后失效或更新缓存策略明确。
 
 下一节：**Week 14 / Day 6 — 缓存三大问题。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day06-cache-failures.md)

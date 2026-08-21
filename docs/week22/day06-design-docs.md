@@ -17,3 +17,8 @@
 - 指标可实际观测。
 
 下一节：**Week 22 / Day 7 — 项目强化复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day07-review-project-hardening.md)

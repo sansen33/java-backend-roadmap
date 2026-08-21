@@ -33,3 +33,8 @@ mvn dependency:tree
 - 如何查依赖冲突？
 
 下一节：**Week 6 / Day 3 — 生命周期。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day03-maven-lifecycle.md)

@@ -17,3 +17,8 @@
 - 结果具体且真实。
 
 下一节：**Week 24 / Day 4 — 系统设计。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day04-system-design.md)

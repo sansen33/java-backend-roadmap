@@ -89,3 +89,8 @@ boolean refund()
 - 能否画出完整状态转换图？
 
 下一节：**Week 2 / Day 2 — 继承与方法覆写。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day02-inheritance-overriding.md)

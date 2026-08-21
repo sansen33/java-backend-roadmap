@@ -34,3 +34,8 @@ package 通常会先执行测试；测试失败应阻止错误产物交付。
 - 为什么不能忽略失败测试？
 
 下一节：**Week 6 / Day 4 — JUnit 断言。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week06/day04-junit-assertions.md)

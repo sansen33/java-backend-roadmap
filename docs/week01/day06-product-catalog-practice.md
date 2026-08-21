@@ -212,3 +212,8 @@ class CatalogService {
 - 能否从空文件独立完成并运行这个程序？
 
 下一节：**Week 1 / Day 7 — 复盘、验收与纠错。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day07-review-and-checkpoint.md)

@@ -17,3 +17,8 @@
 - 发布失败可观测。
 
 下一节：**Week 18 / Day 3 — Consumer 与 ACK。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day03-consumer-ack.md)

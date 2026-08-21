@@ -13,3 +13,8 @@
 - [ ] 日志可查看。
 
 下一节：**Week 20 / Day 1 — 单体与微服务。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day01-monolith-microservices.md)

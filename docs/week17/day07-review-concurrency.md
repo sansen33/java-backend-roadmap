@@ -13,3 +13,8 @@
 - [ ] 异常可观察。
 
 下一节：**Week 18 / Day 1 — 消息模型。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day01-message-model.md)

@@ -17,3 +17,8 @@
 - 文档覆盖错误响应。
 
 下一节：**Week 12 / Day 7 — API 规范复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day07-review-api-conventions.md)

@@ -17,3 +17,8 @@
 - 知道 Atomic 只保护单一原子状态。
 
 下一节：**Week 17 / Day 5 — Lock。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day05-lock-condition.md)

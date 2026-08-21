@@ -12,3 +12,8 @@
 - [ ] 薄弱点有修订答案。
 
 下一节：**Week 24 / Day 1 — 定位与简历。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day01-positioning-resume.md)

@@ -17,3 +17,8 @@
 - 不生成无 WHERE 的更新。
 
 下一节：**Week 11 / Day 4 — 分页。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day04-pagination.md)

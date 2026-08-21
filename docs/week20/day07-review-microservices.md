@@ -12,3 +12,8 @@
 - [ ] 每条调用有失败语义和追踪策略。
 
 下一节：**Week 21 / Day 1 — Nacos 注册发现。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day01-nacos-discovery.md)

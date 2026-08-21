@@ -35,3 +35,8 @@ try (BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_
 - 编码不明确会导致什么问题？
 
 下一节：**Week 5 / Day 4 — Path 与 Files。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week05/day04-path-files.md)

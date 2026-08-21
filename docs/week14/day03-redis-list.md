@@ -17,3 +17,8 @@
 - 消费失败语义明确。
 
 下一节：**Week 14 / Day 4 — Set 与 ZSet。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day04-redis-set-zset.md)

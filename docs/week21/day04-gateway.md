@@ -17,3 +17,8 @@
 - 网关不承载领域业务。
 
 下一节：**Week 21 / Day 5 — Sentinel。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day05-sentinel.md)

@@ -17,3 +17,8 @@
 - 不只看最后一行异常。
 
 下一节：**Week 19 / Day 3 — Docker 基础。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day03-docker-basics.md)

@@ -36,3 +36,8 @@ ResponseEntity<UserView> create(@RequestBody CreateUserRequest request) {}
 - 为什么不能暴露实体？
 
 下一节：**Week 10 / Day 4 — CRUD 与状态码。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day04-crud-status-codes.md)

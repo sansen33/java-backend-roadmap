@@ -17,3 +17,8 @@
 - 方案有最终一致性边界。
 
 下一节：**Week 23 / Day 5 — Spring 面试。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week23/day05-spring-interview.md)

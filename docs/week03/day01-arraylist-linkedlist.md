@@ -45,3 +45,8 @@ Product first = products.get(0);
 - 为什么默认优先 `ArrayList`？
 
 下一节：**Week 3 / Day 2 — `HashSet` 与去重。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day02-hashset-deduplication.md)

@@ -17,3 +17,8 @@
 - 投递记录完整。
 
 下一节：**Week 24 / Day 7 — 求职复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day07-review-job-search.md)

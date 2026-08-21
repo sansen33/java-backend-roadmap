@@ -37,3 +37,8 @@ Controller 不直接访问 Map，密码和内部标记绝不进入 `UserView`。
 - 何处检查邮箱唯一性？
 
 下一节：**Week 10 / Day 6 — 验证与错误响应。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week10/day06-validation-errors.md)

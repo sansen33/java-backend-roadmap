@@ -17,3 +17,8 @@
 - 知道 SPI 可能打破父优先。
 
 下一节：**Week 16 / Day 7 — JVM 复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week16/day07-review-jvm.md)

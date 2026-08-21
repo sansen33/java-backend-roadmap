@@ -36,3 +36,8 @@ sorted.sort(Comparator.comparing(Product::getPrice)
 - 同价商品如何保证确定顺序？
 
 下一节：**Week 3 / Day 6 — 并发集合。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day06-concurrent-map.md)

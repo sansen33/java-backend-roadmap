@@ -34,3 +34,8 @@ Map<OrderStatus, List<Order>> byStatus = orders.stream()
 - 空组如何处理？
 
 下一节：**Week 4 / Day 5 — Optional。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day05-optional.md)

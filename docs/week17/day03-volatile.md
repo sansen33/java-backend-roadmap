@@ -17,3 +17,8 @@
 - 停止线程不依赖忙等无限循环。
 
 下一节：**Week 17 / Day 4 — CAS 与 Atomic。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day04-cas-atomic.md)

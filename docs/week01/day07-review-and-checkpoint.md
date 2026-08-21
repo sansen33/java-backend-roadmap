@@ -170,3 +170,8 @@ git push
 提交前确认程序可运行，输出包含成功支付、失败支付和库存不变三种结果。
 
 下一周：**Week 2 — OOP、接口、继承、多态、泛型与 `equals` / `hashCode`。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day01-encapsulation-invariants.md)

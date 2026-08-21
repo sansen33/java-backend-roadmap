@@ -17,3 +17,8 @@
 - 环境配置可区分。
 
 下一节：**Week 21 / Day 3 — OpenFeign。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day03-openfeign.md)

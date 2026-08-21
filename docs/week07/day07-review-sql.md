@@ -17,3 +17,8 @@
 提交：`git commit -m "complete week 7 sql"`。
 
 下一节：**Week 8 / Day 1 — B+Tree 与索引。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week08/day01-index-btree.md)

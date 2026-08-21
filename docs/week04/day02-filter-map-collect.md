@@ -47,3 +47,8 @@ List<String> names = products.stream()
 - 空列表结果是什么？
 
 下一节：**Week 4 / Day 3 — 聚合。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week04/day03-reduce-aggregation.md)

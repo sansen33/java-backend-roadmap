@@ -17,3 +17,8 @@
 - Controller 不感知 SQL。
 
 下一节：**Week 11 / Day 7 — MyBatis 复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week11/day07-review-mybatis.md)

@@ -17,3 +17,8 @@
 - 业务校验与状态修改在同一临界区。
 
 下一节：**Week 17 / Day 3 — volatile。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week17/day03-volatile.md)

@@ -17,3 +17,8 @@
 - 堆积有指标阈值。
 
 下一节：**Week 18 / Day 6 — 延迟消息。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day06-delayed-message.md)

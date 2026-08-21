@@ -17,3 +17,8 @@
 - token 有过期时间。
 
 下一节：**Week 13 / Day 3 — Token 校验。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week13/day03-token-validation.md)

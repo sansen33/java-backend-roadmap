@@ -17,3 +17,8 @@
 提交：`git commit -m "complete week 8 transaction"`。
 
 下一节：**Week 9 / Day 1 — Bean 与 IOC。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day01-bean-ioc.md)

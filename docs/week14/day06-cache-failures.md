@@ -17,3 +17,8 @@
 - 锁失败不无限等待。
 
 下一节：**Week 14 / Day 7 — Redis 缓存复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week14/day07-review-redis-cache.md)

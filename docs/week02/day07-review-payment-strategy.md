@@ -55,3 +55,8 @@ git commit -m "complete week 2 oop"
 ```
 
 下一节：**Week 3 / Day 1 — `ArrayList` 与 `LinkedList`。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day01-arraylist-linkedlist.md)

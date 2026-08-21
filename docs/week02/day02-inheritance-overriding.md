@@ -84,3 +84,8 @@ public class DigitalProduct extends Product {
 - 继承和组合分别适合什么场景？
 
 下一节：**Week 2 / Day 3 — 多态。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week02/day03-polymorphism.md)

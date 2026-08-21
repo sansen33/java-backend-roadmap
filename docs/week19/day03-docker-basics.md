@@ -17,3 +17,8 @@
 - 端口映射明确。
 
 下一节：**Week 19 / Day 4 — Dockerfile。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day04-dockerfile.md)

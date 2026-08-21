@@ -17,3 +17,8 @@
 - Redis 不替代数据库最终事实。
 
 下一节：**Week 15 / Day 6 — 压测与指标。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day06-load-test.md)

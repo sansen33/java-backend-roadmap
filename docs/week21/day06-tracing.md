@@ -17,3 +17,8 @@ Gateway 生成或透传 request ID，下游记录该 ID。
 - 日志无敏感数据。
 
 下一节：**Week 21 / Day 7 — Spring Cloud 复盘。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week21/day07-review-spring-cloud.md)

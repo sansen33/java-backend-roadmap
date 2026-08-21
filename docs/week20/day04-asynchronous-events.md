@@ -17,3 +17,8 @@
 - 消费重复执行无副作用。
 
 下一节：**Week 20 / Day 5 — 数据一致性。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week20/day05-data-consistency.md)

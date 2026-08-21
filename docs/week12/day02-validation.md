@@ -17,3 +17,8 @@
 - 业务唯一性不误用 Bean Validation。
 
 下一节：**Week 12 / Day 3 — 统一响应。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week12/day03-api-response.md)

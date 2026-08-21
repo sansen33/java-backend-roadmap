@@ -34,3 +34,8 @@ quantities.merge(productId, quantity, Integer::sum);
 - key 使用什么类型更稳定？
 
 下一节：**Week 3 / Day 4 — Queue、Deque 与栈。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week03/day04-queue-deque-stack.md)

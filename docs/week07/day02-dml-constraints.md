@@ -35,3 +35,8 @@ WHERE id = 1 AND stock >= 2;
 - 影响行数如何表示业务失败？
 
 下一节：**Week 7 / Day 3 — 条件查询。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week07/day03-select-conditions.md)

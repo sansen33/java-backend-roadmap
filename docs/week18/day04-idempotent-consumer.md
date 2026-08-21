@@ -17,3 +17,8 @@
 - 不能只依赖内存 Set。
 
 下一节：**Week 18 / Day 5 — 丢失与堆积。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week18/day05-loss-backlog.md)

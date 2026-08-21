@@ -356,3 +356,8 @@ git push
 原则：**每天至少产生一次自己能够解释清楚的代码变化，而不是只记录看了多少课程。**
 
 下一节：**Week 1 / Day 2 — 方法、构造器、封装、static、final 与 Java 参数传递。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week01/day02-methods-encapsulation-static-final.md)

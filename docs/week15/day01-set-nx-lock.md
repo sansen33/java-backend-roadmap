@@ -17,3 +17,8 @@
 - 不使用固定 value 解锁。
 
 下一节：**Week 15 / Day 2 — 安全释放锁。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day02-safe-unlock.md)

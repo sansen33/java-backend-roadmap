@@ -13,3 +13,8 @@
 - [ ] 消息无敏感数据。
 
 下一节：**Week 19 / Day 1 — Linux 文件与进程。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week19/day01-linux-files-processes.md)

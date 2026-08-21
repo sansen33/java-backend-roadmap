@@ -17,3 +17,8 @@
 - 只释放当前线程持有锁。
 
 下一节：**Week 15 / Day 4 — 幂等。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day04-idempotency.md)

@@ -17,3 +17,8 @@
 - 修订项可执行。
 
 下一节：**Week 24 / Day 6 — 模拟面试二与投递。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week24/day06-applications.md)

@@ -17,3 +17,8 @@
 - 锁 TTL 有业务依据。
 
 下一节：**Week 15 / Day 3 — Redisson。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week15/day03-redisson.md)

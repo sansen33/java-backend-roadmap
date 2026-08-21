@@ -13,3 +13,8 @@
 - [ ] 配置外置。
 
 下一节：**Week 22 / Day 1 — 热点缓存重建。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week22/day01-hot-key-rebuild.md)

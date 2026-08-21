@@ -36,3 +36,8 @@ IOC 将协作者创建和组装从业务代码移交给容器。
 - 为什么不在 Service 中直接 new 外部协作者？
 
 下一节：**Week 9 / Day 2 — 构造器注入。**
+
+---
+
+<!-- daily-navigation -->
+[下一天](../week09/day02-constructor-injection.md)
